@@ -164,7 +164,7 @@ if __name__ == '__main__':
     address = {"address": {"street": "Monroe", "number": 500}}
     update_persona_address('Inove', address)
 
-    inove_data = find_persona('Inove')
+    inove_data_2 = find_persona('Inove')
     # ------------------------------------------------
 
     # Contar cuantos argentinos en la db
